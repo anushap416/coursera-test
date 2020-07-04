@@ -2,5 +2,3 @@
 # Module-2 Coding Assignment
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
-
-# To see the output [CLICK HERE](https://anushap416.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/Mod_2sol/Index.html)
