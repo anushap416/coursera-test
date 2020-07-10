@@ -5,5 +5,5 @@ This repository contains my solutions to the assignments of the Coursera course
 
 
 
-# To see the output [CLICK HERE](http://anushap416.github.io/coursera-test/Mod_3sol)
+# To see the output [CLICK HERE](http://anushap416.github.io/coursera-test/Mod_3sol/Index.html)
 
